@@ -1,6 +1,6 @@
-# Calculus Ratiocinator
+# Functional Programming Starter Kit
 
-Initiation à la __Programmation Fonctionnelle__ avec __TypeScript__ et l'environnement d'exécution __Bun__ (<https://bun.sh>).
+Projet modèle pour le développement d'une application avec une approche Fonctionnelle avec __TypeScript__ et l'environnement d'exécution __Bun__ (<https://bun.sh>).
 
 ## Installation des dépendances
 
